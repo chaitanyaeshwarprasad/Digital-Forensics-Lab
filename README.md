@@ -6,13 +6,6 @@ This lab simulates a realistic corporate web server compromise where an attacker
 
 ---
 
-## 📁 Repository Contents
-
-*   **[`automate_lab.sh`](file:///c:/Users/Gamer/Desktop/Digital%20Forensics%20Lab/automate_lab.sh)**: A Bash automation script that sets up a mock server environment inside a virtual 500MB FAT32 loopback filesystem, simulates the attack and anti-forensics cleanup, and packages everything into an `evidence.raw` disk image.
-*   **[`forensics_lab_manual.md`](file:///c:/Users/Gamer/Desktop/Digital%20Forensics%20Lab/forensics_lab_manual.md)**: A complete student manual and trainer's answer key guiding you through the six phases of the digital forensics lifecycle.
-
----
-
 ## ⚙️ Quick Start Guide
 
 To run this lab locally, you will need a **Kali Linux** virtual machine:
@@ -31,7 +24,7 @@ To run this lab locally, you will need a **Kali Linux** virtual machine:
     ```bash
     sudo autopsy
     ```
-6.  Open the web interface at `http://localhost:9999/autopsy` and follow the instructions in **[`forensics_lab_manual.md`](file:///c:/Users/Gamer/Desktop/Digital%20Forensics%20Lab/forensics_lab_manual.md)**.
+6.  Open the web interface at `http://localhost:9999/autopsy`
 
 ---
 
