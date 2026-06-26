@@ -293,7 +293,7 @@ In the Reporting phase, investigators compile and present their findings in a cl
 
 ---
 
-## INSTRUCTOR ANNEX: GUIDE & ANSWER KEY
+## GUIDE & ANSWER KEY
 
 This section is for the trainer to evaluate student work and lead classroom debriefings.
 
